@@ -1,0 +1,12 @@
+
+
+" GNU !!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+" this is for your VIM 
+" quick and work!!
+
+nmap mk  :! make ; make run  <cr>
+nmap <c-p>  :r ~/.references.clp  <cr>
+nmap mr  :! nbibman <cr>
+
+
+
