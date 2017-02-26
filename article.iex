@@ -1,0 +1,36 @@
+
+
+\documentclass[a4paper]{article}
+\usepackage[bookmarks=false]{hyperref}
+\hypersetup{colorlinks,linkcolor=blue,citecolor=blue}
+
+\hypersetup{pdftitle={Article},%
+ 	pdfauthor={Username},%
+ 	pdfdisplaydoctitle=true}
+
+\usepackage[english]{babel}
+\usepackage{graphicx}
+\usepackage{sidecap}
+\usepackage{graphicx}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{wrapfig}
+\usepackage{titlepic}
+\usepackage{indentfirst}
+\usepackage{float}
+
+\newcommand{\iexclr}{\clearpage}
+\newcommand{\iextor}[1]{\input{iexreferences.bbl}}
+
+\title{ My Paper Title }
+
+\date{}
+
+\author{The Author}
+
+\begin{document}
+\maketitle
+
+
+
+
