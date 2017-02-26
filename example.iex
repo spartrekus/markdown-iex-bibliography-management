@@ -1,0 +1,19 @@
+
+
+$include{article.iex}
+
+This is the reference one  \cite{ref983743435}.
+This is the reference two  \cite{ref9823}.
+This is the second three \cite{ref43432}.
+
+$clr
+// $tor  <-- this is a comment ;)
+/*
+this is a commented area.
+*/
+
+$input{iexreferences.bbl}
+
+$enddoc
+
+
