@@ -1,5 +1,9 @@
 
 
+// this is your document. Very light, no?
+// To view it as pdf, just do :   texiex make example.iex 
+// This will compile it in few seconds and just after open the pdf with mupdf. 
+
 $include{article.iex}
 
 This is the reference one  \cite{ref983743435}.
